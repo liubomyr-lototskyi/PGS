@@ -7,7 +7,7 @@
 > **Using this script (or any similar tool) against systems you do NOT own or have explicit written permission to test is illegal** in almost every country.
 > I do **not** condone, encourage or support unauthorized access in any form.
 
-## What this is for
+## What this is for:
 
 Very **slow, noisy, deliberately inefficient** PowerShell demonstration showing how password guessing against SSH looks from the attacker's side.
 **Features:**
@@ -23,7 +23,7 @@ Very **slow, noisy, deliberately inefficient** PowerShell demonstration showing 
 
 Real tools (hydra, medusa, patator, crowbar, ...) are 100–1000× faster and much stealthier.
 
-## Requirements
+## Requirements:
 
 - Windows 10+ (or PowerShell 7+ on Linux/macOS)
 - `plink.exe` in PATH (from PuTTY package) – or replace with native `ssh` call
