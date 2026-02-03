@@ -1,6 +1,6 @@
 # Educational SSH Brute-Force Simulation (MS PowerShell)
 
-**VERY IMPORTANT – LEGAL WARNING**
+**VERY IMPORTANT - LEGAL WARNING**
 
 > This repository exists **exclusively for educational purposes**, red team / blue team training, cybersecurity courses, CTF challenges and **authorized penetration testing only**.
 >
@@ -26,7 +26,7 @@ Real tools (hydra, medusa, patator, crowbar, ...) are 100–1000× faster and mu
 ## Requirements:
 
 - Windows 10+ (or PowerShell 7+ on Linux/macOS)
-- `plink.exe` in PATH (from PuTTY package) – or replace with native `ssh` call
+- `plink.exe` in PATH (from PuTTY package) – or replace it with native `ssh` call
 - Small wordlist (example: first 1000 lines of rockyou.txt)
 
 ## Usage example
