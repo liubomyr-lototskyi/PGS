@@ -1,4 +1,4 @@
-# Educational SSH Brute-Force Simulation (PowerShell)
+# Educational SSH Brute-Force Simulation (MS PowerShell)
 
 **VERY IMPORTANT – LEGAL WARNING**
 
