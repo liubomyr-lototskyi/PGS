@@ -17,7 +17,7 @@ Very **slow, noisy, deliberately inefficient** PowerShell demonstration showing 
 - --WhatIf safety switch
 - Mandatory confirmation prompt
 - Clear logging to console
-- Uses `plink.exe` (PuTTY link) – easy to swap for native `ssh` if preferred
+- Uses `plink.exe` (PuTTY link) - easy to swap for native `ssh` if preferred
 
 **This script is extremely easy to detect** (fail2ban, CrowdSec, AWS GuardDuty, simple log analysis catch it in seconds).
 
@@ -29,7 +29,7 @@ Real tools (hydra, medusa, patator, crowbar, ...) are 100–1000× faster and mu
 - `plink.exe` in PATH (from PuTTY package) – or replace it with native `ssh` call
 - Small wordlist (example: first 1000 lines of rockyou.txt)
 
-## Usage example
+## Usage example:
 
 ```powershell
 .\SSH-Brute-Demo.ps1 -Target 192.168.56.101 -Port 22 -User testuser `
