@@ -13,7 +13,7 @@
     100–1000× faster and much harder to detect than this script.
 
 .NOTES
-    Recommended companion tools for real testing (with permission!):
+    Recommended companion tools for real testing (only with permission!):
     • hydra        • medusa       • nmap + ssh-brute script
     • patator      • crowbar      • ssh-audit + custom wordlist
 
