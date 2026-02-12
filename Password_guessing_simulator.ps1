@@ -39,7 +39,7 @@
     Maximum artificial delay
 
 .PARAMETER BackoffFactor
-    How fast to increase delay after failed attempt
+    How to increase delay after failed attempt
 
 .EXAMPLE
     .\ssh-brute-demo.ps1 -Target 192.168.56.101 -User testuser -Wordlist .\rockyou-1000.txt -DelayMinMs 800 -DelayMaxMs 4500
