@@ -6,7 +6,7 @@
     NEVER use this code against systems you do not own or have explicit written permission to test.
 
 .DESCRIPTION
-    Very slow, noisy, educational demonstration of SSH password guessing.
+    Educational demonstration of SSH password guessing.
     Implements exponential backoff, random delays, basic logging.
 
     Real attacking tools (hydra, medusa, patator, ssh-audit + custom wordlist) are
