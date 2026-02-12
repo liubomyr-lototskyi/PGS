@@ -10,7 +10,7 @@
     Implements exponential backoff, random delays, basic logging.
 
     Real attacking tools (hydra, medusa, patator, ssh-audit + custom wordlist) are
-    100–1000× faster and much harder to detect than this script.
+    up to 100–1000× faster and much harder to detect than this script.
 
 .NOTES
     Recommended companion tools for real testing (only with permission!):
